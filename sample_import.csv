@@ -1,0 +1,26 @@
+Description,Vendor,RepName,RepPhone,Location,SubLocation,Quantity,ReorderLevel,Cost,Sell
+Shampoo - Moisturizing,Hair Care Co,Chuckles,555-444-1212,Main Salon,*,100,10,5.99,9.99
+Conditioner - Repair,Salon Supplies,Pickem Flikem,204-567-2342,Color Station,*,50,5,10.99,19.98
+Hair Treatment - Nourishing,Beauti-Supply,Amanda Hugginkiss,780-555-1234,Backroom,Shelf A,200,20,3.99,7.99
+Hair Oil - Smoothing,Beauty Ware,Hugh Jass,1-800-123-4567,Styling Area,*,80,8,7.49,12.99
+Hair Mask - Strengthening,Hair Stuff,Pinky Dinky,587-234-5689,Reception Area,*,120,15,6.79,14.99
+Hair Gel - Strong Hold,Hair Care Co,Chuckles,555-444-1212,Main Salon,*,20,25,4.99,8.99
+Hair Spray - Extra Hold,Salon Supplies,Pickem Flikem,204-567-2342,Color Station,*,90,10,8.49,15.99
+Dry Shampoo - Refreshing,Beauti-Supply,Amanda Hugginkiss,780-555-1234,Backroom,Shelf B,70,7,9.99,17.98
+Hair Serum - Shine,Beauty Ware,Hugh Jass,1-800-123-4567,Styling Area,*,100,15,11.99,21.99
+Hair Mousse - Volume,Hair Stuff,Pinky Dinky,587-234-5689,Reception Area,*,80,10,6.99,13.99
+Hair Wax - Texture,Hair Care Co,Chuckles,555-444-1212,Main Salon,*,60,6,8.99,16.98
+Hair Cream - Control,Salon Supplies,Pickem Flikem,204-567-2342,Color Station,*,70,8,7.99,14.99
+Hair Pomade - Definition,Beauti-Supply,Amanda Hugginkiss,780-555-1234,Main Salon,*,50,5,9.49,16.98
+Hair Paste - Matte,Beauty Ware,Hugh Jass,1-800-123-4567,Styling Area,*,40,4,10.49,18.98
+Hair Clay - Hold,Hair Stuff,Pinky Dinky,587-234-5689,Reception Area,*,30,3,11.99,19.98
+Hair Spray - Flexible Hold,Hair Care Co,Chuckles,555-444-1212,Main Salon,*,80,8,9.99,17.98
+Hair Powder - Volumizing,Salon Supplies,Pickem Flikem,204-567-2342,Color Station,*,60,6,8.49,15.99
+Hair Foam - Curl Enhancing,Beauti-Supply,Amanda Hugginkiss,780-555-1234,Backroom,Shelf D,70,7,7.99,14.99
+Hair Wax Stick - Definition,Beauty Ware,Hugh Jass,1-800-123-4567,Styling Area,*,50,5,10.49,18.98
+Hair Gloss - Shine,Hair Stuff,Pinky Dinky,587-234-5689,Reception Area,*,40,4,11.49,19.98
+Hair Gel - Wet Look,Hair Care Co,Chuckles,555-444-1212,Main Salon,*,60,6,8.99,16.98
+Hair Serum - Frizz Control,Salon Supplies,Pickem Flikem,204-567-2342,Color Station,*,70,7,7.99,14.99
+Hair Cream - Curl Defining,Beauti-Supply,Amanda Hugginkiss,780-555-1234,Backroom,Shelf D,80,8,9.49,17.98
+Hair Paste - Flexible,Beauty Ware,Hugh Jass,1-800-123-4567,Styling Area,*,90,9,10.99,18.98
+Hair Spray - Strong Hold,Hair Stuff,Pinky Dinky,587-234-5689,Reception Area,*,100,10,11.99,19.98
